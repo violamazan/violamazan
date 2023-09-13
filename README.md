@@ -1,9 +1,9 @@
 ## Hello, Github Readers 👋
 
 ### My name is Justin. I am a junior frontend developer living in Montreal, Canada.
-#### After 10 years as a freelancing orchestral musician 🎻, I am excited to embark on this new journey into tech 💻
+#### After 10 years as a freelancing orchestral musician 🎻, I am excited to embark on a new journey into WEB DEVELOPMENT 💻
 
-- 🖼️ To round out my frontend skills, I’m currently learning React and basics of UI design!
+- 🖼️ To round out my frontend skills, I’m currently learning React and basics of UI/UX design.
 
 
 <h3 align="left">Languages and Tools I work with:</h3>
